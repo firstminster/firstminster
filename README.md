@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firstminster&label=Profile%20views&color=0e75b6&style=flat" alt="firstminster" /> </p>
 
-- 🔭 I’m currently working on [Educational Platform](https://www.dayspringacademy.co/)
+- 🔭 I’m currently working on [Educational Software](https://www.dayspringacademy.co/)
 
 - 🌱 I’m currently learning **React Native**
 
