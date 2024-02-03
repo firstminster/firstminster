@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firstminster&label=Profile%20views&color=0e75b6&style=flat" alt="firstminster" /> </p>
 
-- 🔭 I’m currently working on [K-12 ERP Solution](https://www.dayspringacademy.co/)
+- 🔭 I’m currently working on [K-12 Institution ERP Solution](https://www.dayspringacademy.co/)
 
-- 🌱 I’m currently learning **React Native** & DSA
+- 🌱 I’m currently learning **React Native** & **DSA**
 
 - 👨‍💻 All of my projects are available at [https://www.firstminster.dev/](https://www.firstminster.dev/)
 
