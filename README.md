@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firstminster&label=Profile%20views&color=0e75b6&style=flat" alt="firstminster" /> </p>
 
-- 🔭 I’m currently working on [K-12 Institution ERP Solution](https://www.dayspringacademy.co/)
+- 🔭 I’m currently working on [K-12 Institution ERP Solution](https://dayspringacademy.co/)
 
 - 🌱 I’m currently learning **React Native** & **DSA**
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **Javascript, ReactJs**
 
 - 📫 How to reach me **promiseharrycyber@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
